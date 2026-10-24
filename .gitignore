@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+Thumbs.db
+*.apk
+*.mp4
+*.mov
+*.mkv
+*.db
+*.sqlite*
+*.pem
+*.key
+.venv/
